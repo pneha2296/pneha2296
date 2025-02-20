@@ -12,8 +12,7 @@
 - **DevOps:** Docker, GitHub Actions, CI/CD pipelines  
 - **ORM:** TypeORM, Mongoose
 
-## 💡 Highlights
-- Led development of scalable CMS with plugin architecture using Next.js & TypeORM.  
+## 💡 Highlights  
 - Built Neon Digital Signage software used by 8,000+ screens globally.  
 - Proficient in building microservices and optimizing system performance.  
 - Passionate about AI and developing AI-powered applications using Django.
@@ -21,6 +20,8 @@
 ## 📂 Featured Projects
 🔹 **Neon Digital Signage** - TV software managing 8,000+ screens globally.  
 🔹 **Image Recognition App** (WIP) - AI project using Django backend.  
+🔹 **Clinic2go** - Clinic Appoinment booking system.
+🔹 **Jungle-meadows** - Informative website.
 🔹 **CMS with WYSIWYG Editor** - Modular CMS with plugin architecture.
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/neha-prajapati-040a10143/) | [Portfolio](#) | [Email](mailto:pneha2296@gmail.com)
